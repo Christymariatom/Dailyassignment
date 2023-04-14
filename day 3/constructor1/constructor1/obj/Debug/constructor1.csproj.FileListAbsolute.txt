@@ -1,0 +1,8 @@
+D:\UST DEMO\day 3\constructor1\constructor1\obj\Debug\constructor1.csproj.AssemblyReference.cache
+D:\UST DEMO\day 3\constructor1\constructor1\obj\Debug\constructor1.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 3\constructor1\constructor1\obj\Debug\constructor1.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 3\constructor1\constructor1\bin\Debug\constructor1.exe.config
+D:\UST DEMO\day 3\constructor1\constructor1\bin\Debug\constructor1.exe
+D:\UST DEMO\day 3\constructor1\constructor1\bin\Debug\constructor1.pdb
+D:\UST DEMO\day 3\constructor1\constructor1\obj\Debug\constructor1.exe
+D:\UST DEMO\day 3\constructor1\constructor1\obj\Debug\constructor1.pdb
