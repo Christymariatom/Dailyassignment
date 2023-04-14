@@ -1,0 +1,16 @@
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\bin\Debug\namespacetopic.exe.config
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\bin\Debug\namespacetopic.exe
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\bin\Debug\namespacetopic.pdb
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\obj\Debug\namespacetopic.csproj.AssemblyReference.cache
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\obj\Debug\namespacetopic.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\obj\Debug\namespacetopic.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\obj\Debug\namespacetopic.exe
+D:\UST DEMO\day 9\namespacetopic\namespacetopic\obj\Debug\namespacetopic.pdb
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\bin\Debug\namespacetopic.exe.config
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\bin\Debug\namespacetopic.exe
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\bin\Debug\namespacetopic.pdb
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\obj\Debug\namespacetopic.csproj.AssemblyReference.cache
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\obj\Debug\namespacetopic.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\obj\Debug\namespacetopic.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\obj\Debug\namespacetopic.exe
+D:\UST DEMO\day 10\namespacetopic\namespacetopic\obj\Debug\namespacetopic.pdb

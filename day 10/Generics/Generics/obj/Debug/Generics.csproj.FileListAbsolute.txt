@@ -1,0 +1,8 @@
+D:\UST DEMO\day 10\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\UST DEMO\day 10\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 10\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 10\Generics\Generics\bin\Debug\Generics.exe.config
+D:\UST DEMO\day 10\Generics\Generics\bin\Debug\Generics.exe
+D:\UST DEMO\day 10\Generics\Generics\bin\Debug\Generics.pdb
+D:\UST DEMO\day 10\Generics\Generics\obj\Debug\Generics.exe
+D:\UST DEMO\day 10\Generics\Generics\obj\Debug\Generics.pdb
