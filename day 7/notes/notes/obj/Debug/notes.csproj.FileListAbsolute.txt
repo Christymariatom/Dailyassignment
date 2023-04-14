@@ -1,0 +1,8 @@
+D:\UST DEMO\day 7\notes\notes\bin\Debug\notes.exe.config
+D:\UST DEMO\day 7\notes\notes\bin\Debug\notes.exe
+D:\UST DEMO\day 7\notes\notes\bin\Debug\notes.pdb
+D:\UST DEMO\day 7\notes\notes\obj\Debug\notes.csproj.AssemblyReference.cache
+D:\UST DEMO\day 7\notes\notes\obj\Debug\notes.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 7\notes\notes\obj\Debug\notes.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 7\notes\notes\obj\Debug\notes.exe
+D:\UST DEMO\day 7\notes\notes\obj\Debug\notes.pdb
