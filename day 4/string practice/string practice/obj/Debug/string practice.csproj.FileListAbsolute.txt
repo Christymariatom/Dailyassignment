@@ -1,0 +1,8 @@
+D:\UST DEMO\day 4\string practice\string practice\bin\Debug\string practice.exe.config
+D:\UST DEMO\day 4\string practice\string practice\bin\Debug\string practice.exe
+D:\UST DEMO\day 4\string practice\string practice\bin\Debug\string practice.pdb
+D:\UST DEMO\day 4\string practice\string practice\obj\Debug\string practice.csproj.AssemblyReference.cache
+D:\UST DEMO\day 4\string practice\string practice\obj\Debug\string practice.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 4\string practice\string practice\obj\Debug\string practice.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 4\string practice\string practice\obj\Debug\string practice.exe
+D:\UST DEMO\day 4\string practice\string practice\obj\Debug\string practice.pdb
