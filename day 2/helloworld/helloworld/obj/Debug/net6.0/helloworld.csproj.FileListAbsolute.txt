@@ -1,0 +1,15 @@
+D:\UST DEMO\day 2\helloworld\helloworld\bin\Debug\net6.0\helloworld.exe
+D:\UST DEMO\day 2\helloworld\helloworld\bin\Debug\net6.0\helloworld.deps.json
+D:\UST DEMO\day 2\helloworld\helloworld\bin\Debug\net6.0\helloworld.runtimeconfig.json
+D:\UST DEMO\day 2\helloworld\helloworld\bin\Debug\net6.0\helloworld.dll
+D:\UST DEMO\day 2\helloworld\helloworld\bin\Debug\net6.0\helloworld.pdb
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.csproj.AssemblyReference.cache
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfoInputs.cache
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfo.cs
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.dll
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\refint\helloworld.dll
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.pdb
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\helloworld.genruntimeconfig.cache
+D:\UST DEMO\day 2\helloworld\helloworld\obj\Debug\net6.0\ref\helloworld.dll

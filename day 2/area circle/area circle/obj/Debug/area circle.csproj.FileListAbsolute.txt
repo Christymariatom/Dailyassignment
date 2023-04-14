@@ -1,0 +1,8 @@
+D:\UST DEMO\day 2\area circle\area circle\bin\Debug\area circle.exe.config
+D:\UST DEMO\day 2\area circle\area circle\bin\Debug\area circle.exe
+D:\UST DEMO\day 2\area circle\area circle\bin\Debug\area circle.pdb
+D:\UST DEMO\day 2\area circle\area circle\obj\Debug\area circle.csproj.AssemblyReference.cache
+D:\UST DEMO\day 2\area circle\area circle\obj\Debug\area circle.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 2\area circle\area circle\obj\Debug\area circle.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 2\area circle\area circle\obj\Debug\area circle.exe
+D:\UST DEMO\day 2\area circle\area circle\obj\Debug\area circle.pdb

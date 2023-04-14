@@ -1,0 +1,8 @@
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\bin\Debug\newgreaternumber.exe.config
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\bin\Debug\newgreaternumber.exe
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\bin\Debug\newgreaternumber.pdb
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\obj\Debug\newgreaternumber.csproj.AssemblyReference.cache
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\obj\Debug\newgreaternumber.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\obj\Debug\newgreaternumber.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\obj\Debug\newgreaternumber.exe
+D:\UST DEMO\day 2\newgreaternumber\newgreaternumber\obj\Debug\newgreaternumber.pdb

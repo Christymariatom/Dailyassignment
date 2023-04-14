@@ -1,0 +1,8 @@
+D:\UST DEMO\day 2\areasquare\areasquare\obj\Debug\areasquare.csproj.AssemblyReference.cache
+D:\UST DEMO\day 2\areasquare\areasquare\obj\Debug\areasquare.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 2\areasquare\areasquare\obj\Debug\areasquare.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 2\areasquare\areasquare\bin\Debug\areasquare.exe.config
+D:\UST DEMO\day 2\areasquare\areasquare\bin\Debug\areasquare.exe
+D:\UST DEMO\day 2\areasquare\areasquare\bin\Debug\areasquare.pdb
+D:\UST DEMO\day 2\areasquare\areasquare\obj\Debug\areasquare.exe
+D:\UST DEMO\day 2\areasquare\areasquare\obj\Debug\areasquare.pdb

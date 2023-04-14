@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: area circle, Configuration: Debug Any CPU ------
+1>  area circle -> D:\UST DEMO\day 2\area circle\area circle\bin\Debug\area circle.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 4:22 PM and took 00.388 seconds ==========
