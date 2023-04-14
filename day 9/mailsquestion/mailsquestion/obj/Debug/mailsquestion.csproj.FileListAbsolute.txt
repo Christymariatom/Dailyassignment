@@ -1,0 +1,3 @@
+D:\UST DEMO\day 9\mailsquestion\mailsquestion\obj\Debug\mailsquestion.csproj.AssemblyReference.cache
+D:\UST DEMO\day 9\mailsquestion\mailsquestion\obj\Debug\mailsquestion.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 9\mailsquestion\mailsquestion\obj\Debug\mailsquestion.csproj.CoreCompileInputs.cache

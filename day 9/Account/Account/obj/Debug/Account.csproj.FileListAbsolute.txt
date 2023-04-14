@@ -1,0 +1,8 @@
+D:\UST DEMO\day 5\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\UST DEMO\day 5\Account\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 5\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 5\Account\Account\bin\Debug\Account.exe.config
+D:\UST DEMO\day 5\Account\Account\bin\Debug\Account.exe
+D:\UST DEMO\day 5\Account\Account\bin\Debug\Account.pdb
+D:\UST DEMO\day 5\Account\Account\obj\Debug\Account.exe
+D:\UST DEMO\day 5\Account\Account\obj\Debug\Account.pdb
