@@ -1,0 +1,8 @@
+D:\UST DEMO\day 8\fruitorange\fruitorange\obj\Debug\fruitorange.csproj.AssemblyReference.cache
+D:\UST DEMO\day 8\fruitorange\fruitorange\obj\Debug\fruitorange.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 8\fruitorange\fruitorange\obj\Debug\fruitorange.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 8\fruitorange\fruitorange\bin\Debug\fruitorange.exe.config
+D:\UST DEMO\day 8\fruitorange\fruitorange\bin\Debug\fruitorange.exe
+D:\UST DEMO\day 8\fruitorange\fruitorange\bin\Debug\fruitorange.pdb
+D:\UST DEMO\day 8\fruitorange\fruitorange\obj\Debug\fruitorange.exe
+D:\UST DEMO\day 8\fruitorange\fruitorange\obj\Debug\fruitorange.pdb
