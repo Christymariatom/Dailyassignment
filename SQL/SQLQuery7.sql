@@ -1,0 +1,1 @@
+Alter table Customer Add CustNumb int;

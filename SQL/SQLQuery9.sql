@@ -1,0 +1,1 @@
+insert into Customer values(17,'Baby','tvm',4363873,'F');
