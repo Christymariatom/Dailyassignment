@@ -1,0 +1,8 @@
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\bin\Debug\Anonmeth.exe.config
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\bin\Debug\Anonmeth.exe
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\bin\Debug\Anonmeth.pdb
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\obj\Debug\Anonmeth.csproj.AssemblyReference.cache
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\obj\Debug\Anonmeth.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\obj\Debug\Anonmeth.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\obj\Debug\Anonmeth.exe
+D:\UST DEMO\day 13\Anonmeth\Anonmeth\obj\Debug\Anonmeth.pdb

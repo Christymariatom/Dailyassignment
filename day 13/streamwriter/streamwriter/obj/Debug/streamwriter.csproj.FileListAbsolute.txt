@@ -1,0 +1,8 @@
+D:\UST DEMO\day 13\streamwriter\streamwriter\obj\Debug\streamwriter.csproj.AssemblyReference.cache
+D:\UST DEMO\day 13\streamwriter\streamwriter\obj\Debug\streamwriter.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 13\streamwriter\streamwriter\obj\Debug\streamwriter.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 13\streamwriter\streamwriter\bin\Debug\streamwriter.exe.config
+D:\UST DEMO\day 13\streamwriter\streamwriter\bin\Debug\streamwriter.exe
+D:\UST DEMO\day 13\streamwriter\streamwriter\bin\Debug\streamwriter.pdb
+D:\UST DEMO\day 13\streamwriter\streamwriter\obj\Debug\streamwriter.exe
+D:\UST DEMO\day 13\streamwriter\streamwriter\obj\Debug\streamwriter.pdb
