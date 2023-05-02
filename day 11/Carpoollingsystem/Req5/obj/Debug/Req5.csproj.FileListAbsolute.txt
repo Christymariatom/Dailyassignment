@@ -1,0 +1,8 @@
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\obj\Debug\Req5.csproj.AssemblyReference.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\obj\Debug\Req5.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\obj\Debug\Req5.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\bin\Debug\Req5.exe.config
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\bin\Debug\Req5.exe
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\bin\Debug\Req5.pdb
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\obj\Debug\Req5.exe
+D:\UST DEMO\day 11\Carpoollingsystem\Req5\obj\Debug\Req5.pdb

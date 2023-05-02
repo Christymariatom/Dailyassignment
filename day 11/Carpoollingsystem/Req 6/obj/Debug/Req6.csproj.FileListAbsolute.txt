@@ -1,0 +1,8 @@
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\bin\Debug\Req 6.exe.config
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\bin\Debug\Req 6.exe
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\bin\Debug\Req 6.pdb
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\obj\Debug\Req6.csproj.AssemblyReference.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\obj\Debug\Req6.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\obj\Debug\Req6.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\obj\Debug\Req 6.exe
+D:\UST DEMO\day 11\Carpoollingsystem\Req 6\obj\Debug\Req 6.pdb

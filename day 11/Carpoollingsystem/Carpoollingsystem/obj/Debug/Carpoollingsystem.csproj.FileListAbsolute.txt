@@ -1,0 +1,8 @@
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\obj\Debug\Carpoollingsystem.csproj.AssemblyReference.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\obj\Debug\Carpoollingsystem.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\obj\Debug\Carpoollingsystem.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\bin\Debug\Carpoollingsystem.exe.config
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\bin\Debug\Carpoollingsystem.exe
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\bin\Debug\Carpoollingsystem.pdb
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\obj\Debug\Carpoollingsystem.exe
+D:\UST DEMO\day 11\Carpoollingsystem\Carpoollingsystem\obj\Debug\Carpoollingsystem.pdb
