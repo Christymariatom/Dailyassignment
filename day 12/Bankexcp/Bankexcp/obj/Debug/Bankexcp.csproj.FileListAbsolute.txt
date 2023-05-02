@@ -1,0 +1,8 @@
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\bin\Debug\Bankexcp.exe.config
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\bin\Debug\Bankexcp.exe
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\bin\Debug\Bankexcp.pdb
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\obj\Debug\Bankexcp.csproj.AssemblyReference.cache
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\obj\Debug\Bankexcp.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\obj\Debug\Bankexcp.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\obj\Debug\Bankexcp.exe
+D:\UST DEMO\day 12\Bankexcp\Bankexcp\obj\Debug\Bankexcp.pdb

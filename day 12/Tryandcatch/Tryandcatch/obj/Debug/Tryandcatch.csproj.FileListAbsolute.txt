@@ -1,0 +1,8 @@
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\bin\Debug\Tryandcatch.exe.config
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\bin\Debug\Tryandcatch.exe
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\bin\Debug\Tryandcatch.pdb
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\obj\Debug\Tryandcatch.csproj.AssemblyReference.cache
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\obj\Debug\Tryandcatch.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\obj\Debug\Tryandcatch.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\obj\Debug\Tryandcatch.exe
+D:\UST DEMO\day 12\Tryandcatch\Tryandcatch\obj\Debug\Tryandcatch.pdb

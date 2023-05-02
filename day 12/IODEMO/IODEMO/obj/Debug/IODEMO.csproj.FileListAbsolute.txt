@@ -1,0 +1,8 @@
+D:\UST DEMO\day 12\IODEMO\IODEMO\bin\Debug\IODEMO.exe.config
+D:\UST DEMO\day 12\IODEMO\IODEMO\bin\Debug\IODEMO.exe
+D:\UST DEMO\day 12\IODEMO\IODEMO\bin\Debug\IODEMO.pdb
+D:\UST DEMO\day 12\IODEMO\IODEMO\obj\Debug\IODEMO.csproj.AssemblyReference.cache
+D:\UST DEMO\day 12\IODEMO\IODEMO\obj\Debug\IODEMO.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 12\IODEMO\IODEMO\obj\Debug\IODEMO.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 12\IODEMO\IODEMO\obj\Debug\IODEMO.exe
+D:\UST DEMO\day 12\IODEMO\IODEMO\obj\Debug\IODEMO.pdb
