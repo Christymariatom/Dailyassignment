@@ -1,0 +1,8 @@
+D:\UST DEMO\day 11\mailfolder\Requirement 2\bin\Debug\Requirement 2.exe.config
+D:\UST DEMO\day 11\mailfolder\Requirement 2\bin\Debug\Requirement 2.exe
+D:\UST DEMO\day 11\mailfolder\Requirement 2\bin\Debug\Requirement 2.pdb
+D:\UST DEMO\day 11\mailfolder\Requirement 2\obj\Debug\Requirement 2.csproj.AssemblyReference.cache
+D:\UST DEMO\day 11\mailfolder\Requirement 2\obj\Debug\Requirement 2.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 11\mailfolder\Requirement 2\obj\Debug\Requirement 2.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 11\mailfolder\Requirement 2\obj\Debug\Requirement 2.exe
+D:\UST DEMO\day 11\mailfolder\Requirement 2\obj\Debug\Requirement 2.pdb

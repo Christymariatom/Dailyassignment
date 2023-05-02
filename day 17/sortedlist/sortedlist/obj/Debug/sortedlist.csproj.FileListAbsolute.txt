@@ -1,0 +1,8 @@
+D:\UST DEMO\day 17\sortedlist\sortedlist\bin\Debug\sortedlist.exe.config
+D:\UST DEMO\day 17\sortedlist\sortedlist\bin\Debug\sortedlist.exe
+D:\UST DEMO\day 17\sortedlist\sortedlist\bin\Debug\sortedlist.pdb
+D:\UST DEMO\day 17\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.AssemblyReference.cache
+D:\UST DEMO\day 17\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 17\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 17\sortedlist\sortedlist\obj\Debug\sortedlist.exe
+D:\UST DEMO\day 17\sortedlist\sortedlist\obj\Debug\sortedlist.pdb
