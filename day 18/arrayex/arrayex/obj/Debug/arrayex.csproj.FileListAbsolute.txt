@@ -1,0 +1,8 @@
+D:\UST DEMO\day 16\arrayex\arrayex\obj\Debug\arrayex.csproj.AssemblyReference.cache
+D:\UST DEMO\day 16\arrayex\arrayex\obj\Debug\arrayex.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 16\arrayex\arrayex\obj\Debug\arrayex.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 16\arrayex\arrayex\bin\Debug\arrayex.exe.config
+D:\UST DEMO\day 16\arrayex\arrayex\bin\Debug\arrayex.exe
+D:\UST DEMO\day 16\arrayex\arrayex\bin\Debug\arrayex.pdb
+D:\UST DEMO\day 16\arrayex\arrayex\obj\Debug\arrayex.exe
+D:\UST DEMO\day 16\arrayex\arrayex\obj\Debug\arrayex.pdb

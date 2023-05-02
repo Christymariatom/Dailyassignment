@@ -1,0 +1,8 @@
+D:\UST DEMO\day 16\sortarray\sortarray\obj\Debug\sortarray.csproj.AssemblyReference.cache
+D:\UST DEMO\day 16\sortarray\sortarray\obj\Debug\sortarray.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 16\sortarray\sortarray\obj\Debug\sortarray.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 16\sortarray\sortarray\bin\Debug\sortarray.exe.config
+D:\UST DEMO\day 16\sortarray\sortarray\bin\Debug\sortarray.exe
+D:\UST DEMO\day 16\sortarray\sortarray\bin\Debug\sortarray.pdb
+D:\UST DEMO\day 16\sortarray\sortarray\obj\Debug\sortarray.exe
+D:\UST DEMO\day 16\sortarray\sortarray\obj\Debug\sortarray.pdb
