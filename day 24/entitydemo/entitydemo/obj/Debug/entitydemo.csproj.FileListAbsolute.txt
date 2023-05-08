@@ -1,0 +1,13 @@
+D:\UST DEMO\day 24\entitydemo\entitydemo\bin\Debug\entitydemo.exe.config
+D:\UST DEMO\day 24\entitydemo\entitydemo\bin\Debug\entitydemo.exe
+D:\UST DEMO\day 24\entitydemo\entitydemo\bin\Debug\entitydemo.pdb
+D:\UST DEMO\day 24\entitydemo\entitydemo\bin\Debug\EntityFramework.dll
+D:\UST DEMO\day 24\entitydemo\entitydemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\UST DEMO\day 24\entitydemo\entitydemo\bin\Debug\EntityFramework.xml
+D:\UST DEMO\day 24\entitydemo\entitydemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\UST DEMO\day 24\entitydemo\entitydemo\obj\Debug\entitydemo.csproj.AssemblyReference.cache
+D:\UST DEMO\day 24\entitydemo\entitydemo\obj\Debug\entitydemo.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 24\entitydemo\entitydemo\obj\Debug\entitydemo.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 24\entitydemo\entitydemo\obj\Debug\entitydemo.csproj.CopyComplete
+D:\UST DEMO\day 24\entitydemo\entitydemo\obj\Debug\entitydemo.exe
+D:\UST DEMO\day 24\entitydemo\entitydemo\obj\Debug\entitydemo.pdb
