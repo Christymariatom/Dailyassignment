@@ -1,0 +1,8 @@
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\bin\Debug\LINQsortingcount.exe.config
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\bin\Debug\LINQsortingcount.exe
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\bin\Debug\LINQsortingcount.pdb
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\obj\Debug\LINQsortingcount.csproj.AssemblyReference.cache
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\obj\Debug\LINQsortingcount.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\obj\Debug\LINQsortingcount.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\obj\Debug\LINQsortingcount.exe
+D:\UST DEMO\day 22\LINQsortingcount\LINQsortingcount\obj\Debug\LINQsortingcount.pdb

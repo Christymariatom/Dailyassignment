@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPrint", "ArrayPrint\ArrayPrint.csproj", "{D3840A71-1612-46AE-BFA4-CAC2C440AB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3840A71-1612-46AE-BFA4-CAC2C440AB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3840A71-1612-46AE-BFA4-CAC2C440AB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3840A71-1612-46AE-BFA4-CAC2C440AB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3840A71-1612-46AE-BFA4-CAC2C440AB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A40DA20-447D-414C-B8BC-49A6EE53F7BD}
+	EndGlobalSection
+EndGlobal
