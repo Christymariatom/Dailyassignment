@@ -1,0 +1,8 @@
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\bin\Debug\LINQprac1.exe.config
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\bin\Debug\LINQprac1.exe
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\bin\Debug\LINQprac1.pdb
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\obj\Debug\LINQprac1.csproj.AssemblyReference.cache
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\obj\Debug\LINQprac1.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\obj\Debug\LINQprac1.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\obj\Debug\LINQprac1.exe
+D:\UST DEMO\day 23\LINQprac1\LINQprac1\obj\Debug\LINQprac1.pdb
