@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarNS", "CarNS\CarNS.csproj", "{01F5A8FD-7A43-44D3-8A8C-A1332190F06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTests", "CarTests\CarTests.csproj", "{4DF85C1D-A5A7-4C41-A258-7AC5382485AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarUI", "CarUI\CarUI.csproj", "{0B52C4B8-00C4-4093-9356-F21FD0DCCF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F5A8FD-7A43-44D3-8A8C-A1332190F06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F5A8FD-7A43-44D3-8A8C-A1332190F06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F5A8FD-7A43-44D3-8A8C-A1332190F06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F5A8FD-7A43-44D3-8A8C-A1332190F06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF85C1D-A5A7-4C41-A258-7AC5382485AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF85C1D-A5A7-4C41-A258-7AC5382485AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF85C1D-A5A7-4C41-A258-7AC5382485AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF85C1D-A5A7-4C41-A258-7AC5382485AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B52C4B8-00C4-4093-9356-F21FD0DCCF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B52C4B8-00C4-4093-9356-F21FD0DCCF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B52C4B8-00C4-4093-9356-F21FD0DCCF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B52C4B8-00C4-4093-9356-F21FD0DCCF84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {275ADE21-04C8-48C6-8346-58837A656668}
+	EndGlobalSection
+EndGlobal
