@@ -1,0 +1,8 @@
+D:\UST DEMO\day 34\singletondemo\singletondemo\bin\Debug\singletondemo.exe.config
+D:\UST DEMO\day 34\singletondemo\singletondemo\bin\Debug\singletondemo.exe
+D:\UST DEMO\day 34\singletondemo\singletondemo\bin\Debug\singletondemo.pdb
+D:\UST DEMO\day 34\singletondemo\singletondemo\obj\Debug\singletondemo.csproj.AssemblyReference.cache
+D:\UST DEMO\day 34\singletondemo\singletondemo\obj\Debug\singletondemo.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 34\singletondemo\singletondemo\obj\Debug\singletondemo.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 34\singletondemo\singletondemo\obj\Debug\singletondemo.exe
+D:\UST DEMO\day 34\singletondemo\singletondemo\obj\Debug\singletondemo.pdb
