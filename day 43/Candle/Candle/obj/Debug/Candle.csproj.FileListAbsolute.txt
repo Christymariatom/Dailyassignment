@@ -1,0 +1,8 @@
+D:\UST DEMO\day 43\Candle\Candle\bin\Debug\Candle.exe.config
+D:\UST DEMO\day 43\Candle\Candle\bin\Debug\Candle.exe
+D:\UST DEMO\day 43\Candle\Candle\bin\Debug\Candle.pdb
+D:\UST DEMO\day 43\Candle\Candle\obj\Debug\Candle.csproj.AssemblyReference.cache
+D:\UST DEMO\day 43\Candle\Candle\obj\Debug\Candle.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 43\Candle\Candle\obj\Debug\Candle.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 43\Candle\Candle\obj\Debug\Candle.exe
+D:\UST DEMO\day 43\Candle\Candle\obj\Debug\Candle.pdb
