@@ -1,0 +1,8 @@
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\bin\Debug\Abstractclass.exe.config
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\bin\Debug\Abstractclass.exe
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\bin\Debug\Abstractclass.pdb
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\obj\Debug\Abstractclass.csproj.AssemblyReference.cache
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\obj\Debug\Abstractclass.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\obj\Debug\Abstractclass.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\obj\Debug\Abstractclass.exe
+D:\UST DEMO\day 41\Abstractclass\Abstractclass\obj\Debug\Abstractclass.pdb
