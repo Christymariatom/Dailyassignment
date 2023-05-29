@@ -1,0 +1,8 @@
+D:\UST DEMO\day 40\hourglass\hourglass\bin\Debug\hourglass.exe.config
+D:\UST DEMO\day 40\hourglass\hourglass\bin\Debug\hourglass.exe
+D:\UST DEMO\day 40\hourglass\hourglass\bin\Debug\hourglass.pdb
+D:\UST DEMO\day 40\hourglass\hourglass\obj\Debug\hourglass.csproj.AssemblyReference.cache
+D:\UST DEMO\day 40\hourglass\hourglass\obj\Debug\hourglass.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 40\hourglass\hourglass\obj\Debug\hourglass.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 40\hourglass\hourglass\obj\Debug\hourglass.exe
+D:\UST DEMO\day 40\hourglass\hourglass\obj\Debug\hourglass.pdb
