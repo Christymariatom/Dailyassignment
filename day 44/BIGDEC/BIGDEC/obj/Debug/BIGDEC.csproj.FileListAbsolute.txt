@@ -1,0 +1,8 @@
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\bin\Debug\BIGDEC.exe.config
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\bin\Debug\BIGDEC.exe
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\bin\Debug\BIGDEC.pdb
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\obj\Debug\BIGDEC.csproj.AssemblyReference.cache
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\obj\Debug\BIGDEC.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\obj\Debug\BIGDEC.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\obj\Debug\BIGDEC.exe
+D:\UST DEMO\day 44\BIGDEC\BIGDEC\obj\Debug\BIGDEC.pdb
