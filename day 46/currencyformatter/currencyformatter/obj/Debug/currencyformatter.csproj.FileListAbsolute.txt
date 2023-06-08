@@ -1,0 +1,8 @@
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\bin\Debug\currencyformatter.exe.config
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\bin\Debug\currencyformatter.exe
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\bin\Debug\currencyformatter.pdb
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\obj\Debug\currencyformatter.csproj.AssemblyReference.cache
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\obj\Debug\currencyformatter.csproj.SuggestedBindingRedirects.cache
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\obj\Debug\currencyformatter.csproj.CoreCompileInputs.cache
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\obj\Debug\currencyformatter.exe
+D:\UST DEMO\day 46\currencyformatter\currencyformatter\obj\Debug\currencyformatter.pdb
